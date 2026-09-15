@@ -1,0 +1,16 @@
+{
+  "audit_date": "2026-09-15",
+  "auditor": "RATISS-Framework",
+  "scope_repositories": 45,
+  "average_score": 77,
+  "grades": {"A": 3, "B": 33, "C": 9, "D": 0, "F": 0},
+  "security_findings": {"true_secrets": 0, "true_env_files": 0, "private_emails": 0},
+  "actions_confirmed": {
+    "deleted": ["open-webui", "ratiss-cypher-odv-scientist", "openhands", "robot-Ratiss-", "evinajonathan13-max"],
+    "archived": ["ratiss-labs-website"],
+    "renamed": {"sciece-2": "science-2"},
+    "official_site_repository": "ratiss-labs-site",
+    "official_site_url": "https://jonathansearch.github.io/ratiss-labs-site/"
+  },
+  "limitations": ["audit source used shallow clones with --depth 1", "independent auditor pending"]
+}

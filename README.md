@@ -24,7 +24,7 @@ Les suppressions suivantes ont été demandées et confirmées par le propriéta
 | `robot-Ratiss-` | suppression confirmée | supprimé |
 | `evinajonathan13-max` | suppression confirmée | supprimé |
 
-Le site officiel retenu est **[ratiss-labs-site](https://jonathansearch.github.io/ratiss-labs-site/)**. Le dépôt doublon `ratiss-labs-website` a été **archivé**, et non supprimé, afin de conserver une option de récupération.
+Le seul site officiel de RATISS Labs est **[https://jonathansearch.github.io/ratiss-labs-site/](https://jonathansearch.github.io/ratiss-labs-site/)**, publié depuis le dépôt [`ratiss-labs-site`](https://github.com/jonathansearch/ratiss-labs-site). Le dépôt `ratiss-labs-website` **n’est pas officiel** ; il a été **archivé**, et non supprimé, uniquement afin de conserver une référence historique et une option de récupération.
 
 Le dépôt mal orthographié `sciece-2` a été renommé en [`science-2`](https://github.com/jonathansearch/science-2). Cette opération conserve l’historique du dépôt et bénéficie des redirections GitHub.
 

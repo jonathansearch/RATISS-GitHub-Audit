@@ -10,7 +10,7 @@ Le rapport source couvre **45 dépôts** et attribue une note moyenne de **77/10
 
 ## Actions exécutées
 
-Les dépôts `open-webui`, `ratiss-cypher-odv-scientist`, `openhands`, `robot-Ratiss-` et `evinajonathan13-max` ont été supprimés après confirmation explicite du propriétaire. Le dépôt `ratiss-labs-website` a été archivé afin de préserver une possibilité de récupération. Le dépôt `sciece-2` a été renommé `science-2`. Le site officiel conservé est `ratiss-labs-site`.
+Les dépôts `open-webui`, `ratiss-cypher-odv-scientist`, `openhands`, `robot-Ratiss-` et `evinajonathan13-max` ont été supprimés après confirmation explicite du propriétaire. Le dépôt `ratiss-labs-website` a été archivé afin de préserver une possibilité de récupération. Le dépôt `sciece-2` a été renommé `science-2`. Le seul site officiel est `https://jonathansearch.github.io/ratiss-labs-site/`, publié depuis `ratiss-labs-site`. Le dépôt `ratiss-labs-website` n’est pas officiel et reste archivé uniquement comme référence historique.
 
 ## Actions non destructives recommandées
 

@@ -1,0 +1,22 @@
+# 🛡️ AUDIT RATISS — `Ratiss-Jonathan-Labs-`
+
+- **Date :** 2026-09-15 — **Juge :** RATISS-Framework (couche 1, 47 tests passed, 4 skipped réseau)
+- **Verdict :** 89/100 — grade **A**
+- **Empreinte (manifest sha256) :** `4193d2dc484c75da`
+- **Dernier commit :** Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10
+- **Fichiers :** 32 — **Licence (GitHub) :** NOASSERTION
+
+## Résultats
+- **LICENCE-FLOUE** — fichier LICENSE présent mais GitHub affiche NOASSERTION = les entreprises n'osent pas toucher
+- **GROS-FICHIER** — artifacts/berlin52_topology_resilience.json (5.8 Mo)
+
+## Fichiers .env réels trouvés : AUCUN ✅
+## Vrais secrets trouvés : AUCUN ✅ (indices vérifiés un par un)
+
+## Rejouer cet audit
+```bash
+bash ratiss-audit/rejouer.sh
+```
+
+Auditeur indépendant : ⏳ EN ATTENTE (règle N2 — auto-audit divulgué).
+Signé : RATISS-Framework, couche 1. MIT © 2026 Jonathan Evina, RATISS Labs.

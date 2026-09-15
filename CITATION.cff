@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "RATISS GitHub Audit — jonathansearch account"
+authors:
+  - family-names: Evina
+    given-names: Jonathan
+    orcid: "https://orcid.org/0009-0000-4092-5313"
+repository-code: "https://github.com/jonathansearch/RATISS-GitHub-Audit"
+license: MIT

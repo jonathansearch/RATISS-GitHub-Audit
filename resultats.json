@@ -160,14 +160,6 @@
   "name": "RATISS-GitHub-Audit",
   "findings": [
    [
-    "LICENCE-MANQUANTE",
-    "AUCUNE licence d\u00e9tect\u00e9e = code inutilisable l\u00e9galement par une entreprise"
-   ],
-   [
-    "GITIGNORE-MANQUANT",
-    "pas de .gitignore (risque de fuite)"
-   ],
-   [
     "SECRET?",
     "openai_key dans RAPPORT-GLOBAL.md :: sk-dif***"
    ],
@@ -176,17 +168,17 @@
     "generic_token dans RAPPORT-GLOBAL.md :: Monnam***"
    ],
    [
-    "COQUILLE-VIDE",
-    "seulement 5 fichiers"
+    "INDICE-SECRET",
+    "generic_token dans audits/RATISS-ODV-AEON/AUDIT.md :: Monnam***"
    ]
   ],
-  "score": 35,
-  "files": 5,
-  "size_kb": 13,
+  "score": 65,
+  "files": 47,
+  "size_kb": 46,
   "readme": true,
-  "license_file": false,
-  "gitignore": false,
-  "citation": false,
+  "license_file": true,
+  "gitignore": true,
+  "citation": true,
   "secret_files": [],
   "secret_hits": [
    [
@@ -198,16 +190,21 @@
     "generic_token",
     "RAPPORT-GLOBAL.md",
     "Monnam***"
+   ],
+   [
+    "generic_token",
+    "audits/RATISS-ODV-AEON/AUDIT.md",
+    "Monnam***"
    ]
   ],
   "large_files": [],
   "junk": [],
   "todos": 0,
-  "fingerprint": "6978825f0a7d8236",
-  "author": "jonathansearch <3.27111783e+08+jonathansearch@users.noreply.github.com> | 2026-09-15",
+  "fingerprint": "2250d28330af6c26",
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
-  "license_api": null,
-  "grade": "D"
+  "license_api": "MIT",
+  "grade": "C"
  },
  "RATISS-HPC": {
   "name": "RATISS-HPC",
@@ -268,7 +265,7 @@
    ],
    [
     "INDICE-SECRET",
-    "generic_token dans tests/test_transdisc_security.py :: Monnam***"
+    "generic_token dans tests/test_transdisc_security.py :: Test_F***"
    ],
    [
     "INDICE-SECRET",
@@ -331,7 +328,7 @@
    [
     "generic_token",
     "tests/test_transdisc_security.py",
-    "Monnam***"
+    "Test_F***"
    ],
    [
     "generic_token",
@@ -382,8 +379,8 @@
   "large_files": [],
   "junk": [],
   "todos": 0,
-  "fingerprint": "17f03ac95f9cf8e2",
-  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
+  "fingerprint": "c88887cd9a26e3e7",
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
   "license_api": "NOASSERTION",
   "grade": "F"
@@ -533,26 +530,21 @@
  },
  "Travaux": {
   "name": "Travaux",
-  "findings": [
-   [
-    "GITIGNORE-MANQUANT",
-    "pas de .gitignore (risque de fuite)"
-   ]
-  ],
-  "score": 95,
-  "files": 75,
+  "findings": [],
+  "score": 100,
+  "files": 76,
   "size_kb": 4348,
   "readme": true,
   "license_file": true,
-  "gitignore": false,
+  "gitignore": true,
   "citation": true,
   "secret_files": [],
   "secret_hits": [],
   "large_files": [],
   "junk": [],
   "todos": 0,
-  "fingerprint": "58af7fa27d7d55b4",
-  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
+  "fingerprint": "c5f1d14f53433b72",
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
   "license_api": "NOASSERTION",
   "grade": "A"
@@ -637,26 +629,21 @@
  },
  "ratiss-Skynet": {
   "name": "ratiss-Skynet",
-  "findings": [
-   [
-    "GITIGNORE-MANQUANT",
-    "pas de .gitignore (risque de fuite)"
-   ]
-  ],
-  "score": 95,
-  "files": 103,
+  "findings": [],
+  "score": 100,
+  "files": 104,
   "size_kb": 4062,
   "readme": true,
   "license_file": true,
-  "gitignore": false,
+  "gitignore": true,
   "citation": true,
   "secret_files": [],
   "secret_hits": [],
   "large_files": [],
   "junk": [],
   "todos": 1,
-  "fingerprint": "ff2ea3201c204cfc",
-  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
+  "fingerprint": "e6c757b4f9368f90",
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
   "license_api": "NOASSERTION",
   "grade": "A"
@@ -872,37 +859,24 @@
  },
  "ratiss-audit-public": {
   "name": "ratiss-audit-public",
-  "findings": [
-   [
-    "LICENCE-MANQUANTE",
-    "AUCUNE licence d\u00e9tect\u00e9e = code inutilisable l\u00e9galement par une entreprise"
-   ],
-   [
-    "GITIGNORE-MANQUANT",
-    "pas de .gitignore (risque de fuite)"
-   ],
-   [
-    "COQUILLE-VIDE",
-    "seulement 4 fichiers"
-   ]
-  ],
-  "score": 65,
-  "files": 4,
-  "size_kb": 16,
+  "findings": [],
+  "score": 100,
+  "files": 6,
+  "size_kb": 17,
   "readme": true,
-  "license_file": false,
-  "gitignore": false,
+  "license_file": true,
+  "gitignore": true,
   "citation": false,
   "secret_files": [],
   "secret_hits": [],
   "large_files": [],
   "junk": [],
   "todos": 0,
-  "fingerprint": "f27bc4f1731e8f55",
-  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-12",
+  "fingerprint": "e1eca41388410cad",
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
-  "license_api": null,
-  "grade": "C"
+  "license_api": "MIT",
+  "grade": "A"
  },
  "ratiss-bio": {
   "name": "ratiss-bio",
@@ -1148,18 +1122,14 @@
   "name": "ratiss-scientist-agent",
   "findings": [
    [
-    "README-MANQUANT",
-    "pas de README \u00e0 la racine"
-   ],
-   [
     "INDICE-SECRET",
     "generic_token dans agentic_scientist/README.md :: votre_***"
    ]
   ],
-  "score": 80,
-  "files": 305,
+  "score": 95,
+  "files": 306,
   "size_kb": 14181,
-  "readme": false,
+  "readme": true,
   "license_file": true,
   "gitignore": true,
   "citation": true,
@@ -1174,11 +1144,11 @@
   "large_files": [],
   "junk": [],
   "todos": 0,
-  "fingerprint": "4da44ebed611053f",
-  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
+  "fingerprint": "a28c4c3dfa631001",
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
   "license_api": "NOASSERTION",
-  "grade": "B"
+  "grade": "A"
  },
  "ratiss-topological-decoherence-engine": {
   "name": "ratiss-topological-decoherence-engine",
@@ -1203,30 +1173,21 @@
  },
  "science-2": {
   "name": "science-2",
-  "findings": [
-   [
-    "GITIGNORE-MANQUANT",
-    "pas de .gitignore (risque de fuite)"
-   ],
-   [
-    "COQUILLE-VIDE",
-    "seulement 5 fichiers"
-   ]
-  ],
-  "score": 85,
-  "files": 5,
+  "findings": [],
+  "score": 100,
+  "files": 6,
   "size_kb": 144,
   "readme": true,
   "license_file": true,
-  "gitignore": false,
+  "gitignore": true,
   "citation": true,
   "secret_files": [],
   "secret_hits": [],
   "large_files": [],
   "junk": [],
   "todos": 0,
-  "fingerprint": "474e7ceb15bb1f3e",
-  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
+  "fingerprint": "e236cfe0961d37d5",
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
   "license_api": "NOASSERTION",
   "grade": "A"

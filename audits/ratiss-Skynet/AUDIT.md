@@ -1,14 +1,13 @@
 # 🛡️ AUDIT RATISS — `ratiss-Skynet`
 
 - **Date :** 2026-09-15 — **Juge :** RATISS-Framework (couche 1, 47 tests passed, 4 skipped réseau)
-- **Verdict :** 85/100 — grade **A**
-- **Empreinte (manifest sha256) :** `ff2ea3201c204cfc`
-- **Dernier commit :** Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10
-- **Fichiers :** 103 — **Licence (GitHub) :** NOASSERTION
+- **Verdict :** 90/100 — grade **A**
+- **Empreinte (manifest sha256) :** `e6c757b4f9368f90`
+- **Dernier commit :** Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15
+- **Fichiers :** 104 — **Licence (GitHub) :** NOASSERTION
 
 ## Résultats
 - **LICENCE-FLOUE** — fichier LICENSE présent mais GitHub affiche NOASSERTION = les entreprises n'osent pas toucher
-- **GITIGNORE-MANQUANT** — pas de .gitignore
 
 ## Fichiers .env réels trouvés : AUCUN ✅
 ## Vrais secrets trouvés : AUCUN ✅ (indices vérifiés un par un)

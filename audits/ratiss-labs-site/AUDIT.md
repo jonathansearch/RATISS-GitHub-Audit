@@ -9,6 +9,7 @@
 ## Résultats
 - **LICENCE-MANQUANTE** — aucune licence = code inutilisable légalement par une entreprise
 - **BRANCHE** — branche master au lieu de main
+- **INTENTIONNEL** — site officiel — intouché sur ordre du chef (v3), findings acceptés
 - **SECRETS-VERIFIES** — indices passés en revue un par un : tous des faux positifs (placeholders, fixtures de test, noms de modèles) — aucun vrai secret. Détail dans resultats.json
 
 ## Fichiers .env réels trouvés : AUCUN ✅

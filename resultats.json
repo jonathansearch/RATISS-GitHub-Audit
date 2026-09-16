@@ -1,1216 +1,1106 @@
 {
  "Algorithmes-quantique-Ratiss-labs-": {
-  "name": "Algorithmes-quantique-Ratiss-labs-",
-  "findings": [],
-  "score": 100,
-  "files": 31,
-  "size_kb": 870,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "260429e9aa77d3e7",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 31,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "e83fd7b7fc3c0838",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "Algorithmes-quantique-Ratiss-labs-",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 883,
+  "todos": 0
  },
  "Crypto-net-veo-": {
-  "name": "Crypto-net-veo-",
+  "archived": false,
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
+  "branch": "main",
+  "citation": true,
+  "files": 162,
   "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ],
    [
     "GROS-FICHIER",
     "data/KDDTrain+.txt (18.2 Mo)"
    ]
   ],
-  "score": 97,
-  "files": 162,
-  "size_kb": 24152,
-  "readme": true,
-  "license_file": true,
+  "fingerprint": "8c71880380b84af9",
+  "fork": false,
   "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
+  "grade": "A",
+  "junk": [],
   "large_files": [
    [
     "data/KDDTrain+.txt",
     18.2
    ]
   ],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "5773038e822a645c",
-  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
-  "branch": "main",
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "Crypto-net-veo-",
+  "readme": true,
+  "score": 97,
+  "secret_files": [],
+  "size_kb": 24223,
+  "todos": 0
  },
  "Porte-folio-Jonathan-": {
-  "name": "Porte-folio-Jonathan-",
-  "findings": [],
-  "score": 100,
-  "files": 131,
-  "size_kb": 11840,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 1,
-  "fingerprint": "d39a8bfc31418b03",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 131,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "a078262a79e67e46",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "Porte-folio-Jonathan-",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 11904,
+  "todos": 0
  },
  "QPU-Ratiss-COSMOS": {
-  "name": "QPU-Ratiss-COSMOS",
-  "findings": [],
-  "score": 100,
-  "files": 33,
-  "size_kb": 1874,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "9cc54580f0374f96",
+  "archived": false,
   "author": "openhands <openhands@all-hands.dev> | 2026-09-11",
   "branch": "main",
+  "citation": true,
+  "files": 33,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "952539951d2b589f",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "QPU-Ratiss-COSMOS",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 1890,
+  "todos": 0
  },
  "RATISS-BIOLAB": {
-  "name": "RATISS-BIOLAB",
-  "findings": [],
-  "score": 100,
-  "files": 27,
-  "size_kb": 749,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "c9cc3f7d576da972",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 27,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "38395e339464f375",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "RATISS-BIOLAB",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 759,
+  "todos": 0
  },
  "RATISS-Framework": {
-  "name": "RATISS-Framework",
-  "findings": [],
-  "score": 100,
-  "files": 45,
-  "size_kb": 3235,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "05259f19515179fa",
+  "archived": false,
   "author": "jonathansearch <3.27111783e+08+jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
+  "citation": true,
+  "files": 45,
+  "findings": [],
+  "fingerprint": "43707095dd154e2f",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "MIT",
-  "grade": "A"
+  "license_file": true,
+  "name": "RATISS-Framework",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 3258,
+  "todos": 0
  },
  "RATISS-GRID": {
-  "name": "RATISS-GRID",
-  "findings": [],
-  "score": 100,
-  "files": 36,
-  "size_kb": 686,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "c16342b7568a15d8",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 36,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "1f21154600fbba46",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "RATISS-GRID",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 699,
+  "todos": 0
  },
  "RATISS-GitHub-Audit": {
-  "name": "RATISS-GitHub-Audit",
-  "findings": [
-   [
-    "SECRET?",
-    "openai_key dans RAPPORT-GLOBAL.md :: sk-dif***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans RAPPORT-GLOBAL.md :: Monnam***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans audits/RATISS-ODV-AEON/AUDIT.md :: Monnam***"
-   ]
-  ],
-  "score": 65,
-  "files": 47,
-  "size_kb": 46,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [
-   [
-    "openai_key",
-    "RAPPORT-GLOBAL.md",
-    "sk-dif***"
-   ],
-   [
-    "generic_token",
-    "RAPPORT-GLOBAL.md",
-    "Monnam***"
-   ],
-   [
-    "generic_token",
-    "audits/RATISS-ODV-AEON/AUDIT.md",
-    "Monnam***"
-   ]
-  ],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "2250d28330af6c26",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
+  "citation": true,
+  "files": 47,
+  "findings": [],
+  "fingerprint": "b0ae4699eb60c65b",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "MIT",
-  "grade": "C"
+  "license_file": true,
+  "name": "RATISS-GitHub-Audit",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 77,
+  "todos": 0
  },
  "RATISS-HPC": {
-  "name": "RATISS-HPC",
-  "findings": [],
-  "score": 100,
-  "files": 25,
-  "size_kb": 738,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "83a6547ba70f6ecf",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 25,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "827ac82e7f79d010",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "RATISS-HPC",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 746,
+  "todos": 0
  },
  "RATISS-LABS-GTT": {
-  "name": "RATISS-LABS-GTT",
-  "findings": [],
-  "score": 100,
-  "files": 150,
-  "size_kb": 4298,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "428780a817f9a1f2",
+  "archived": false,
   "author": "jonathansearch <3.27111783e+08+jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
+  "citation": true,
+  "files": 150,
+  "findings": [],
+  "fingerprint": "d73a87ac10408421",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "MIT",
-  "grade": "A"
+  "license_file": true,
+  "name": "RATISS-LABS-GTT",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 4365,
+  "todos": 0
  },
  "RATISS-ODV-AEON": {
-  "name": "RATISS-ODV-AEON",
-  "findings": [
-   [
-    "FICHIER-SENSIBLE",
-    ".env.example"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans proofs/PROOF.md :: sk-or-***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans security/vuln_scanner.py :: ***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans tests/test_transdisc_security.py :: Test_F***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans tests/test_transdisc_security.py :: ***"
-   ],
-   [
-    "SECRET?",
-    "openai_key dans tests/test_vuln_scanner.py :: sk-123***"
-   ],
-   [
-    "SECRET?",
-    "openai_key dans tests/test_vuln_scanner.py :: sk-123***"
-   ],
-   [
-    "SECRET?",
-    "openai_key dans tests/test_vuln_scanner.py :: sk-123***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans tests/test_vuln_scanner.py :: Monnam***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans tests/test_vuln_scanner.py :: sk-123***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans tests/test_vuln_scanner.py :: sk-123***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans tests/test_vuln_scanner.py :: sk-123***"
-   ],
-   [
-    "SECRET?",
-    "private_key dans tests/test_vuln_scanner.py :: -----B***"
-   ]
-  ],
-  "score": 0,
-  "files": 151,
-  "size_kb": 3890,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [
-   ".env.example"
-  ],
-  "secret_hits": [
-   [
-    "generic_token",
-    "proofs/PROOF.md",
-    "sk-or-***"
-   ],
-   [
-    "generic_token",
-    "security/vuln_scanner.py",
-    "***"
-   ],
-   [
-    "generic_token",
-    "tests/test_transdisc_security.py",
-    "Test_F***"
-   ],
-   [
-    "generic_token",
-    "tests/test_transdisc_security.py",
-    "***"
-   ],
-   [
-    "openai_key",
-    "tests/test_vuln_scanner.py",
-    "sk-123***"
-   ],
-   [
-    "openai_key",
-    "tests/test_vuln_scanner.py",
-    "sk-123***"
-   ],
-   [
-    "openai_key",
-    "tests/test_vuln_scanner.py",
-    "sk-123***"
-   ],
-   [
-    "generic_token",
-    "tests/test_vuln_scanner.py",
-    "Monnam***"
-   ],
-   [
-    "generic_token",
-    "tests/test_vuln_scanner.py",
-    "sk-123***"
-   ],
-   [
-    "generic_token",
-    "tests/test_vuln_scanner.py",
-    "sk-123***"
-   ],
-   [
-    "generic_token",
-    "tests/test_vuln_scanner.py",
-    "sk-123***"
-   ],
-   [
-    "private_key",
-    "tests/test_vuln_scanner.py",
-    "-----B***"
-   ]
-  ],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "c88887cd9a26e3e7",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
+  "citation": true,
+  "files": 151,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ],
+   [
+    "PLAINTEXT_PASSWORD",
+    "security/vuln_auth.py :: [MOT DE PASSE RÉEL — RÉDIGÉ]"
+   ],
+   [
+    "PLAINTEXT_PASSWORD",
+    "tests/test_vuln_scanner.py :: [MOT DE PASSE RÉEL — RÉDIGÉ]"
+   ]
+  ],
+  "fingerprint": "5cca66656241f07d",
+  "fork": false,
+  "gitignore": true,
+  "grade": "F",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "F"
+  "license_file": true,
+  "name": "RATISS-ODV-AEON",
+  "readme": true,
+  "score": 10,
+  "secret_files": [],
+  "size_kb": 3959,
+  "todos": 0
  },
  "RATISS-QPU-AMBIENT": {
-  "name": "RATISS-QPU-AMBIENT",
-  "findings": [],
-  "score": 100,
-  "files": 41,
-  "size_kb": 1193,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "f396980978b1e56b",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 41,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "a116623244f5ac4d",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "RATISS-QPU-AMBIENT",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 1213,
+  "todos": 0
  },
  "RATISS-V10-Physical-Complexity-Audit": {
-  "name": "RATISS-V10-Physical-Complexity-Audit",
-  "findings": [],
-  "score": 100,
-  "files": 16,
-  "size_kb": 660,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "cefd8caa8450f5e2",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 16,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "f404125466e64143",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "RATISS-V10-Physical-Complexity-Audit",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 666,
+  "todos": 0
  },
  "Ratiss-Fusion-stark-": {
-  "name": "Ratiss-Fusion-stark-",
-  "findings": [],
-  "score": 100,
-  "files": 99,
-  "size_kb": 4301,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "fcd59a2ab7fe9f48",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 99,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "a8c399e552b9129a",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "Ratiss-Fusion-stark-",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 4344,
+  "todos": 0
  },
  "Ratiss-Jonathan-Labs-": {
-  "name": "Ratiss-Jonathan-Labs-",
+  "archived": false,
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
+  "branch": "main",
+  "citation": true,
+  "files": 32,
   "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ],
    [
     "GROS-FICHIER",
     "artifacts/berlin52_topology_resilience.json (5.8 Mo)"
    ]
   ],
-  "score": 99,
-  "files": 32,
-  "size_kb": 6764,
-  "readme": true,
-  "license_file": true,
+  "fingerprint": "bda605271135298f",
+  "fork": false,
   "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
+  "grade": "A",
+  "junk": [],
   "large_files": [
    [
     "artifacts/berlin52_topology_resilience.json",
     5.8
    ]
   ],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "4193d2dc484c75da",
-  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
-  "branch": "main",
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "Ratiss-Jonathan-Labs-",
+  "readme": true,
+  "score": 97,
+  "secret_files": [],
+  "size_kb": 6777,
+  "todos": 0
  },
  "Ratiss-experimental-IA-": {
-  "name": "Ratiss-experimental-IA-",
+  "archived": false,
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
+  "branch": "main",
+  "citation": true,
+  "files": 173,
   "findings": [
    [
-    "SECRET?",
-    "openai_key dans data/knowledge_packs/ai_systems_pack.json :: sk-man***"
-   ],
-   [
-    "GROS-FICHIER",
-    "data/grammar_domains/conversation_matrix.json (19.5 Mo)"
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
    ],
    [
     "GROS-FICHIER",
     "data/grammar_domains/dense_syntax_skeletons.json (9.5 Mo)"
-   ]
-  ],
-  "score": 71,
-  "files": 173,
-  "size_kb": 36123,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [
-   [
-    "openai_key",
-    "data/knowledge_packs/ai_systems_pack.json",
-    "sk-man***"
-   ]
-  ],
-  "large_files": [
-   [
-    "data/grammar_domains/conversation_matrix.json",
-    19.5
    ],
+   [
+    "GROS-FICHIER",
+    "data/grammar_domains/conversation_matrix.json (19.5 Mo)"
+   ]
+  ],
+  "fingerprint": "0ae4c03f9387a2cd",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [
    [
     "data/grammar_domains/dense_syntax_skeletons.json",
     9.5
+   ],
+   [
+    "data/grammar_domains/conversation_matrix.json",
+    19.5
    ]
   ],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "4f5479f0a5c02930",
-  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
-  "branch": "main",
   "license_api": "NOASSERTION",
-  "grade": "B"
+  "license_file": true,
+  "name": "Ratiss-experimental-IA-",
+  "readme": true,
+  "score": 94,
+  "secret_files": [],
+  "size_kb": 36212,
+  "todos": 0
  },
  "Travaux": {
-  "name": "Travaux",
-  "findings": [],
-  "score": 100,
-  "files": 76,
-  "size_kb": 4348,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "c5f1d14f53433b72",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
+  "citation": true,
+  "files": 76,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "a0cf3eb6d724a7a5",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "Travaux",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 4386,
+  "todos": 0
  },
  "documentation-ia": {
-  "name": "documentation-ia",
-  "findings": [],
-  "score": 100,
-  "files": 17,
-  "size_kb": 185,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "bcd7863666c67faa",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 17,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "27f38a8e62dc9ef5",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "documentation-ia",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 194,
+  "todos": 0
  },
  "metac-bot-template": {
-  "name": "metac-bot-template",
+  "archived": false,
+  "author": "jonathansearch <3.27111783e+08+jonathansearch@users.noreply.github.com> | 2026-09-12",
+  "branch": "main",
+  "citation": false,
+  "files": 29,
   "findings": [
    [
     "LICENCE-MANQUANTE",
-    "AUCUNE licence d\u00e9tect\u00e9e = code inutilisable l\u00e9galement par une entreprise"
-   ],
-   [
-    "FICHIER-SENSIBLE",
-    ".env.template"
+    "aucun fichier LICENSE"
    ],
    [
     "FORK",
-    "fork \u2014 garder la description d origine"
+    "fork — garder la description d'origine"
    ]
   ],
-  "score": 80,
-  "files": 29,
-  "size_kb": 668,
-  "readme": true,
-  "license_file": false,
+  "fingerprint": "2382520f6d2400ea",
+  "fork": true,
   "gitignore": true,
-  "citation": false,
-  "secret_files": [
-   ".env.template"
-  ],
-  "secret_hits": [],
-  "large_files": [],
+  "grade": "C",
   "junk": [],
-  "todos": 4,
-  "fingerprint": "1f0124cb2a421fd9",
-  "author": "jonathansearch <3.27111783e+08+jonathansearch@users.noreply.github.com> | 2026-09-12",
-  "branch": "main",
-  "license_api": null,
-  "grade": "B"
+  "large_files": [],
+  "license_api": "NONE",
+  "license_file": false,
+  "name": "metac-bot-template",
+  "readme": true,
+  "score": 70,
+  "secret_files": [],
+  "size_kb": 681,
+  "todos": 4
  },
  "quantum-circuit-studio": {
-  "name": "quantum-circuit-studio",
-  "findings": [],
-  "score": 100,
-  "files": 37,
-  "size_kb": 1982,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 1,
-  "fingerprint": "06d964879d374d37",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
-  "license_api": "NOASSERTION",
-  "grade": "A"
- },
- "ratiss-Skynet": {
-  "name": "ratiss-Skynet",
-  "findings": [],
-  "score": 100,
-  "files": 104,
-  "size_kb": 4062,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
   "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 1,
-  "fingerprint": "e6c757b4f9368f90",
-  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
-  "branch": "main",
-  "license_api": "NOASSERTION",
-  "grade": "A"
- },
- "ratiss-aeon-agent": {
-  "name": "ratiss-aeon-agent",
+  "files": 37,
   "findings": [
    [
-    "INDICE-SECRET",
-    "generic_token dans README.md :: \u2022\u2022\u2022\u2022\u2022\u2022***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans app/frontend/src/components/ApiVaultPanel.tsx :: NCBI /***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans app/frontend/src/components/ApiVaultPanel.tsx :: AlphaF***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans app/frontend/src/components/ApiVaultPanel.tsx :: ***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans proofs/PROOF.md :: sk-or-***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans security/vuln_scanner.py :: ***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans tests/test_transdisc_security.py :: Monnam***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans tests/test_transdisc_security.py :: ***"
-   ],
-   [
-    "SECRET?",
-    "openai_key dans tests/test_vuln_scanner.py :: sk-123***"
-   ],
-   [
-    "SECRET?",
-    "openai_key dans tests/test_vuln_scanner.py :: sk-123***"
-   ],
-   [
-    "SECRET?",
-    "openai_key dans tests/test_vuln_scanner.py :: sk-123***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans tests/test_vuln_scanner.py :: Monnam***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans tests/test_vuln_scanner.py :: sk-123***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans tests/test_vuln_scanner.py :: sk-123***"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans tests/test_vuln_scanner.py :: sk-123***"
-   ],
-   [
-    "SECRET?",
-    "private_key dans tests/test_vuln_scanner.py :: -----B***"
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
    ]
   ],
-  "score": 0,
-  "files": 171,
-  "size_kb": 5285,
-  "readme": true,
-  "license_file": true,
+  "fingerprint": "102212904801d2c5",
+  "fork": false,
   "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [
-   [
-    "generic_token",
-    "README.md",
-    "\u2022\u2022\u2022\u2022\u2022\u2022***"
-   ],
-   [
-    "generic_token",
-    "app/frontend/src/components/ApiVaultPanel.tsx",
-    "NCBI /***"
-   ],
-   [
-    "generic_token",
-    "app/frontend/src/components/ApiVaultPanel.tsx",
-    "AlphaF***"
-   ],
-   [
-    "generic_token",
-    "app/frontend/src/components/ApiVaultPanel.tsx",
-    "***"
-   ],
-   [
-    "generic_token",
-    "proofs/PROOF.md",
-    "sk-or-***"
-   ],
-   [
-    "generic_token",
-    "security/vuln_scanner.py",
-    "***"
-   ],
-   [
-    "generic_token",
-    "tests/test_transdisc_security.py",
-    "Monnam***"
-   ],
-   [
-    "generic_token",
-    "tests/test_transdisc_security.py",
-    "***"
-   ],
-   [
-    "openai_key",
-    "tests/test_vuln_scanner.py",
-    "sk-123***"
-   ],
-   [
-    "openai_key",
-    "tests/test_vuln_scanner.py",
-    "sk-123***"
-   ],
-   [
-    "openai_key",
-    "tests/test_vuln_scanner.py",
-    "sk-123***"
-   ],
-   [
-    "generic_token",
-    "tests/test_vuln_scanner.py",
-    "Monnam***"
-   ],
-   [
-    "generic_token",
-    "tests/test_vuln_scanner.py",
-    "sk-123***"
-   ],
-   [
-    "generic_token",
-    "tests/test_vuln_scanner.py",
-    "sk-123***"
-   ],
-   [
-    "generic_token",
-    "tests/test_vuln_scanner.py",
-    "sk-123***"
-   ],
-   [
-    "private_key",
-    "tests/test_vuln_scanner.py",
-    "-----B***"
-   ]
-  ],
-  "large_files": [],
+  "grade": "A",
   "junk": [],
-  "todos": 0,
-  "fingerprint": "1f8930d15af2097e",
-  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
-  "branch": "main",
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "F"
- },
- "ratiss-aeon-model-runtime": {
-  "name": "ratiss-aeon-model-runtime",
-  "findings": [],
-  "score": 100,
-  "files": 11,
-  "size_kb": 146,
-  "readme": true,
   "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "68fc699c720f91b2",
-  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
-  "branch": "main",
-  "license_api": "NOASSERTION",
-  "grade": "A"
- },
- "ratiss-atelier": {
-  "name": "ratiss-atelier",
-  "findings": [],
-  "score": 100,
-  "files": 26,
-  "size_kb": 621,
+  "name": "quantum-circuit-studio",
   "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "68a9514069e38592",
-  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
-  "branch": "main",
-  "license_api": "NOASSERTION",
-  "grade": "A"
- },
- "ratiss-audit-public": {
-  "name": "ratiss-audit-public",
-  "findings": [],
   "score": 100,
-  "files": 6,
-  "size_kb": 17,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": false,
   "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "e1eca41388410cad",
+  "size_kb": 1999,
+  "todos": 0
+ },
+ "ratiss-Skynet": {
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
+  "citation": true,
+  "files": 104,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "948eedfebcf0f1a7",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
+  "license_api": "NOASSERTION",
+  "license_file": true,
+  "name": "ratiss-Skynet",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 4109,
+  "todos": 0
+ },
+ "ratiss-aeon-agent": {
+  "archived": false,
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
+  "branch": "main",
+  "citation": true,
+  "files": 171,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ],
+   [
+    "PLAINTEXT_PASSWORD",
+    "security/vuln_auth.py :: [MOT DE PASSE RÉEL — RÉDIGÉ]"
+   ],
+   [
+    "PLAINTEXT_PASSWORD",
+    "tests/test_vuln_scanner.py :: [MOT DE PASSE RÉEL — RÉDIGÉ]"
+   ],
+   [
+    "PLAINTEXT_PASSWORD",
+    "tests/test_transdisc_security.py :: [MOT DE PASSE RÉEL — RÉDIGÉ]"
+   ]
+  ],
+  "fingerprint": "dafccdfcfa59e24d",
+  "fork": false,
+  "gitignore": true,
+  "grade": "F",
+  "junk": [],
+  "large_files": [],
+  "license_api": "NOASSERTION",
+  "license_file": true,
+  "name": "ratiss-aeon-agent",
+  "readme": true,
+  "score": 0,
+  "secret_files": [],
+  "size_kb": 5361,
+  "todos": 0
+ },
+ "ratiss-aeon-model-runtime": {
+  "archived": false,
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
+  "branch": "main",
+  "citation": true,
+  "files": 11,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "9b85ad046704c6ca",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
+  "license_api": "NOASSERTION",
+  "license_file": true,
+  "name": "ratiss-aeon-model-runtime",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 151,
+  "todos": 0
+ },
+ "ratiss-atelier": {
+  "archived": false,
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
+  "branch": "main",
+  "citation": true,
+  "files": 26,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "899b141346990c7e",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
+  "license_api": "NOASSERTION",
+  "license_file": true,
+  "name": "ratiss-atelier",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 630,
+  "todos": 0
+ },
+ "ratiss-audit-public": {
+  "archived": false,
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
+  "branch": "main",
+  "citation": false,
+  "files": 6,
+  "findings": [],
+  "fingerprint": "a760b9081a8f9ac1",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "MIT",
-  "grade": "A"
+  "license_file": true,
+  "name": "ratiss-audit-public",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 20,
+  "todos": 0
  },
  "ratiss-bio": {
-  "name": "ratiss-bio",
-  "findings": [],
-  "score": 100,
-  "files": 112,
-  "size_kb": 3317,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "f36c8b5785d38c98",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 112,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "a9823d7730d44c3a",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "ratiss-bio",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 3371,
+  "todos": 0
  },
  "ratiss-colab-agent": {
-  "name": "ratiss-colab-agent",
-  "findings": [],
-  "score": 100,
-  "files": 7,
-  "size_kb": 167,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "9abcfde7b1aaf6af",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 7,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "9e51d8f1f34371cb",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "ratiss-colab-agent",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 171,
+  "todos": 0
  },
  "ratiss-collapse-program": {
-  "name": "ratiss-collapse-program",
-  "findings": [],
-  "score": 100,
-  "files": 6,
-  "size_kb": 144,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "dc347ec04bbba8fd",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 6,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "88e953f131f1ebb5",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "ratiss-collapse-program",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 147,
+  "todos": 0
  },
  "ratiss-cypher-odv-scientist-v2": {
-  "name": "ratiss-cypher-odv-scientist-v2",
-  "findings": [],
-  "score": 100,
-  "files": 37,
-  "size_kb": 291,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "ef8a3c45c6bf0cb5",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 37,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "54914fb943fafef2",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "ratiss-cypher-odv-scientist-v2",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 306,
+  "todos": 0
  },
  "ratiss-cypher-odv-scientist-v3": {
-  "name": "ratiss-cypher-odv-scientist-v3",
-  "findings": [],
-  "score": 100,
-  "files": 50,
-  "size_kb": 309,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "ab4a8e406fba3c58",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 50,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "efeb329bac4e3de6",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "ratiss-cypher-odv-scientist-v3",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 332,
+  "todos": 0
  },
  "ratiss-decoherence-atlas": {
-  "name": "ratiss-decoherence-atlas",
-  "findings": [],
-  "score": 100,
-  "files": 45,
-  "size_kb": 3244,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "876f63ffeabac77a",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 45,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "71764434143173a7",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "ratiss-decoherence-atlas",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 3265,
+  "todos": 0
  },
  "ratiss-labs-market-research": {
-  "name": "ratiss-labs-market-research",
-  "findings": [],
-  "score": 100,
-  "files": 6,
-  "size_kb": 144,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "15f15be60aead8a3",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 6,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "88e953f131f1ebb5",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "ratiss-labs-market-research",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 147,
+  "todos": 0
  },
  "ratiss-labs-site": {
-  "name": "ratiss-labs-site",
+  "archived": false,
+  "author": "jonathansearch <3.27111783e+08+jonathansearch@users.noreply.github.com> | 2026-09-12",
+  "branch": "master",
+  "citation": false,
+  "files": 34,
   "findings": [
    [
     "LICENCE-MANQUANTE",
-    "AUCUNE licence d\u00e9tect\u00e9e = code inutilisable l\u00e9galement par une entreprise"
-   ],
-   [
-    "FICHIER-SENSIBLE",
-    ".env.example"
-   ],
-   [
-    "INDICE-SECRET",
-    "generic_token dans .env.example :: MY_GEM***"
+    "aucun fichier LICENSE"
    ],
    [
     "BRANCHE",
-    "branche par d\u00e9faut = master (les autres = main)"
+    "branche par défaut = master"
    ]
   ],
-  "score": 63,
-  "files": 34,
-  "size_kb": 1733,
-  "readme": true,
-  "license_file": false,
+  "fingerprint": "2e355ad1a839c052",
+  "fork": false,
   "gitignore": true,
-  "citation": false,
-  "secret_files": [
-   ".env.example"
-  ],
-  "secret_hits": [
-   [
-    "generic_token",
-    ".env.example",
-    "MY_GEM***"
-   ]
-  ],
-  "large_files": [],
+  "grade": "C",
   "junk": [],
-  "todos": 0,
-  "fingerprint": "4e23233ab339bc9f",
-  "author": "jonathansearch <3.27111783e+08+jonathansearch@users.noreply.github.com> | 2026-09-12",
-  "branch": "master",
-  "license_api": null,
-  "grade": "C"
+  "large_files": [],
+  "license_api": "NONE",
+  "license_file": false,
+  "name": "ratiss-labs-site",
+  "readme": true,
+  "score": 78,
+  "secret_files": [],
+  "size_kb": 1748,
+  "todos": 0
  },
  "ratiss-labs-website": {
-  "name": "ratiss-labs-website",
+  "archived": true,
+  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
+  "branch": "main",
+  "citation": true,
+  "files": 19,
   "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ],
    [
     "DESC-GENERIQUE",
-    "description About g\u00e9n\u00e9rique, identique partout"
+    "description générique, identique partout"
    ]
   ],
-  "score": 90,
-  "files": 19,
-  "size_kb": 150,
-  "readme": true,
-  "license_file": true,
+  "fingerprint": "7005e4e63a354c0f",
+  "fork": false,
   "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
+  "grade": "A",
   "junk": [],
-  "todos": 0,
-  "fingerprint": "8e5e2916c370a224",
-  "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
-  "branch": "main",
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "ratiss-labs-website",
+  "readme": true,
+  "score": 90,
+  "secret_files": [],
+  "size_kb": 159,
+  "todos": 0
  },
  "ratiss-lewm-integration": {
-  "name": "ratiss-lewm-integration",
-  "findings": [],
-  "score": 100,
-  "files": 33,
-  "size_kb": 246,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "294f91a9dcb8a603",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
-  "license_api": "NOASSERTION",
-  "grade": "A"
- },
- "ratiss-scientist-agent": {
-  "name": "ratiss-scientist-agent",
+  "citation": true,
+  "files": 33,
   "findings": [
    [
-    "INDICE-SECRET",
-    "generic_token dans agentic_scientist/README.md :: votre_***"
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
    ]
   ],
-  "score": 95,
-  "files": 306,
-  "size_kb": 14181,
-  "readme": true,
-  "license_file": true,
+  "fingerprint": "455dd3903ea74a7c",
+  "fork": false,
   "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [
-   [
-    "generic_token",
-    "agentic_scientist/README.md",
-    "votre_***"
-   ]
-  ],
-  "large_files": [],
+  "grade": "A",
   "junk": [],
-  "todos": 0,
-  "fingerprint": "a28c4c3dfa631001",
+  "large_files": [],
+  "license_api": "NOASSERTION",
+  "license_file": true,
+  "name": "ratiss-lewm-integration",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 260,
+  "todos": 0
+ },
+ "ratiss-scientist-agent": {
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
+  "citation": true,
+  "files": 306,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ],
+   [
+    "GENERIC_TOKEN",
+    "agentic_scientist/README.md :: API_KEY=\"vot"
+   ]
+  ],
+  "fingerprint": "1bf769c13a657ddd",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "ratiss-scientist-agent",
+  "readme": true,
+  "score": 95,
+  "secret_files": [],
+  "size_kb": 14321,
+  "todos": 0
  },
  "ratiss-topological-decoherence-engine": {
-  "name": "ratiss-topological-decoherence-engine",
-  "findings": [],
-  "score": 100,
-  "files": 81,
-  "size_kb": 3259,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "731a2aab988cc532",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 81,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "049a2ed783199c01",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "ratiss-topological-decoherence-engine",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 3302,
+  "todos": 0
  },
  "science-2": {
-  "name": "science-2",
-  "findings": [],
-  "score": 100,
-  "files": 6,
-  "size_kb": 144,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "e236cfe0961d37d5",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-15",
   "branch": "main",
+  "citation": true,
+  "files": 6,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "88e953f131f1ebb5",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "science-2",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 146,
+  "todos": 0
  },
  "scientist-research-": {
-  "name": "scientist-research-",
-  "findings": [],
-  "score": 100,
-  "files": 26,
-  "size_kb": 1359,
-  "readme": true,
-  "license_file": true,
-  "gitignore": true,
-  "citation": true,
-  "secret_files": [],
-  "secret_hits": [],
-  "large_files": [],
-  "junk": [],
-  "todos": 0,
-  "fingerprint": "e4055b115cae4a64",
+  "archived": false,
   "author": "Jonathan Evina <jonathansearch@users.noreply.github.com> | 2026-09-10",
   "branch": "main",
+  "citation": true,
+  "files": 26,
+  "findings": [
+   [
+    "LICENCE-FLOUE",
+    "LICENSE présent mais format non reconnu par GitHub (SPDX)"
+   ]
+  ],
+  "fingerprint": "66e6aafd1452181a",
+  "fork": false,
+  "gitignore": true,
+  "grade": "A",
+  "junk": [],
+  "large_files": [],
   "license_api": "NOASSERTION",
-  "grade": "A"
+  "license_file": true,
+  "name": "scientist-research-",
+  "readme": true,
+  "score": 100,
+  "secret_files": [],
+  "size_kb": 1370,
+  "todos": 0
  }
 }

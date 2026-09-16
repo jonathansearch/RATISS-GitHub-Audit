@@ -1,0 +1,49 @@
+{
+ "_comment": "Reclassement humain des indices detectes par audit.py. Un indice liste sous 'benign' est un faux positif verifie (placeholder tronque, fausse cle de test, libelle d'UI, pattern de scanner). Toute entree non listee reste un constat. AUCUN mot de passe reel n'est classe benign.",
+ "repos": {
+  "RATISS-ODV-AEON": {
+   "benign": [
+    {"type": "INDICE-SECRET", "match": "sk-", "file": "PROOF.md"},
+    {"type": "openai_key", "match": "sk-123456789", "file": "test_vuln_scanner.py"},
+    {"type": "INDICE-SECRET", "match": "sk-123456789", "file": "test_vuln_scanner.py"},
+    {"type": "private_key", "match": "-----BEGIN R", "file": "test_vuln_scanner.py"},
+    {"type": "INDICE-SECRET", "match": "api_key = \"s", "file": "test_vuln_scanner.py"},
+    {"type": "INDICE-SECRET", "match": "PASSWORD = \"", "file": "test_vuln_scanner.py"},
+    {"type": "INDICE-SECRET", "match": "password = \"", "file": "vuln_scanner.py"},
+    {"type": "password_literal", "match": "[placeholder]", "file": "vuln_scanner.py"},
+    {"type": "password_literal", "match": "category", "file": "skill_manager.py"},
+    {"type": "password_literal", "match": "_vuln_authenti", "file": "skill_manager.py"},
+    {"type": "INDICE-SECRET", "match": "PASSWORD = \"", "file": "test_transdisc_security.py"},
+    {"type": "INDICE-SECRET", "match": "password='ad", "file": "test_transdisc_security.py"},
+    {"type": "INDICE-SECRET", "match": "activation fourn", "file": "vuln_auth.py"},
+    {"type": "INDICE-SECRET", "match": ": _vuln_authenti", "file": "skill_manager.py"}
+   ]
+  },
+  "ratiss-aeon-agent": {
+   "benign": [
+    {"type": "INDICE-SECRET", "match": "password=\"", "file": "README.md"},
+    {"type": "INDICE-SECRET", "match": "api_key: \"", "file": "ApiVaultPanel.tsx"},
+    {"type": "INDICE-SECRET", "match": "token: \"", "file": "ApiVaultPanel.tsx"},
+    {"type": "INDICE-SECRET", "match": "sk-", "file": "PROOF.md"},
+    {"type": "openai_key", "match": "sk-123456789", "file": "test_vuln_scanner.py"},
+    {"type": "INDICE-SECRET", "match": "sk-123456789", "file": "test_vuln_scanner.py"},
+    {"type": "private_key", "match": "-----BEGIN R", "file": "test_vuln_scanner.py"},
+    {"type": "INDICE-SECRET", "match": "api_key = \"s", "file": "test_vuln_scanner.py"},
+    {"type": "INDICE-SECRET", "match": "PASSWORD = \"", "file": "test_vuln_scanner.py"},
+    {"type": "INDICE-SECRET", "match": "password = \"", "file": "vuln_scanner.py"},
+    {"type": "password_literal", "match": "[placeholder]", "file": "vuln_scanner.py"},
+    {"type": "password_literal", "match": "category", "file": "skill_manager.py"},
+    {"type": "password_literal", "match": "_vuln_authenti", "file": "skill_manager.py"},
+    {"type": "INDICE-SECRET", "match": "PASSWORD = \"", "file": "test_transdisc_security.py"},
+    {"type": "INDICE-SECRET", "match": "password='ad", "file": "test_transdisc_security.py"},
+    {"type": "INDICE-SECRET", "match": "activation fourn", "file": "vuln_auth.py"},
+    {"type": "INDICE-SECRET", "match": ": _vuln_authenti", "file": "skill_manager.py"}
+   ]
+  },
+  "ratiss-scientist-agent": {
+   "benign": [
+    {"type": "INDICE-SECRET", "match": "votre_", "file": "README.md"}
+   ]
+  }
+ }
+}

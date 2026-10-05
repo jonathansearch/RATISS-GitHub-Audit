@@ -1,67 +1,67 @@
 # RATISS GitHub Audit
 
-## Audit global du compte `jonathansearch`
+## Global audit of the `jonathansearch` account
 
-Ce dépôt centralise l’audit professionnel du compte GitHub `jonathansearch`, exécuté selon la méthode de **RATISS-Framework**, couche 1 de RATISS Labs. Il sert de registre public des contrôles, des corrections non destructives, des suppressions confirmées et des décisions de conservation.
+This repository centralizes the professional audit of the GitHub account `jonathansearch`, carried out according to the **RATISS-Framework** method, layer 1 of RATISS Labs. It serves as a public registry of the controls, of the non-destructive corrections, of the confirmed deletions and of the retention decisions.
 
-> **Périmètre.** L’audit s’appuie sur le rapport global daté du **2026-09-15**. Le rapport indique **45 dépôts audités**, une note moyenne de **77/100**, **3 dépôts de grade A**, **33 de grade B**, **9 de grade C**, **0 de grade D** et **0 de grade F**.
+> **Scope.** The audit relies on the global report dated **2026-09-15**. The report states **45 audited repositories**, an average score of **77/100**, **3 grade-A repositories**, **33 grade B**, **9 grade C**, **0 grade D** and **0 grade F**.
 
-## Résumé exécutif
+## Executive summary
 
-Le rapport identifie **0 vrai secret**, **0 vrai fichier `.env`** et **0 adresse email privée** dans le périmètre analysé. Le principal risque observé est la présentation publique : descriptions génériques, licences insuffisamment détectées par GitHub, dépôts copiés ou rebrandés, doublons de projets et quelques éléments de structure documentaire manquants.
+The report identifies **0 true secret**, **0 true `.env` file** and **0 private email address** in the analyzed scope. The main observed risk is the public presentation: generic descriptions, licenses insufficiently detected by GitHub, copied or rebranded repositories, project duplicates and a few missing pieces of document structure.
 
-Les dépôts `RATISS-Framework` et `RATISS-LABS-GTT` constituent les références techniques principales. Ils ont obtenu **100/100** dans le rapport. Le présent dépôt complète ces deux projets en documentant la gouvernance et l’hygiène publique du compte dans son ensemble.
+The `RATISS-Framework` and `RATISS-LABS-GTT` repositories are the main technical references. They obtained **100/100** in the report. This repository complements those two projects by documenting the governance and the public hygiene of the account as a whole.
 
-## Actions confirmées exécutées
+## Confirmed actions executed
 
-Les suppressions suivantes ont été demandées et confirmées par le propriétaire du compte, puis exécutées :
+The following deletions were requested and confirmed by the account owner, then executed:
 
-| Dépôt | Action | État |
+| Repository | Action | State |
 |---|---|---|
-| `open-webui` | suppression confirmée | supprimé |
-| `ratiss-cypher-odv-scientist` | suppression confirmée | supprimé |
-| `openhands` | suppression confirmée | supprimé |
-| `robot-Ratiss-` | suppression confirmée | supprimé |
-| `evinajonathan13-max` | suppression confirmée | supprimé |
+| `open-webui` | deletion confirmed | deleted |
+| `ratiss-cypher-odv-scientist` | deletion confirmed | deleted |
+| `openhands` | deletion confirmed | deleted |
+| `robot-Ratiss-` | deletion confirmed | deleted |
+| `evinajonathan13-max` | deletion confirmed | deleted |
 
-Le seul site officiel de RATISS Labs est **[https://jonathansearch.github.io/ratiss-labs-site/](https://jonathansearch.github.io/ratiss-labs-site/)**, publié depuis le dépôt [`ratiss-labs-site`](https://github.com/jonathansearch/ratiss-labs-site). Le dépôt `ratiss-labs-website` **n’est pas officiel** ; il a été **archivé**, et non supprimé, uniquement afin de conserver une référence historique et une option de récupération.
+The only official website of RATISS Labs is **[https://jonathansearch.github.io/ratiss-labs-site/](https://jonathansearch.github.io/ratiss-labs-site/)**, published from the [`ratiss-labs-site`](https://github.com/jonathansearch/ratiss-labs-site) repository. The `ratiss-labs-website` repository **is not official**; it was **archived**, not deleted, solely to keep a historical reference and a recovery option.
 
-Le dépôt mal orthographié `sciece-2` a été renommé en [`science-2`](https://github.com/jonathansearch/science-2). Cette opération conserve l’historique du dépôt et bénéficie des redirections GitHub.
+The misspelled repository `sciece-2` was renamed to [`science-2`](https://github.com/jonathansearch/science-2). This operation preserves the repository history and benefits from GitHub redirects.
 
-## Méthode RATISS-Framework
+## RATISS-Framework method
 
-L’audit est documenté selon les principes R4 à R7 : les résultats sont séparés des hypothèses, les valeurs sont rattachées à leur périmètre, les écarts sont conservés et les affirmations doivent rester rejouables. Le rapport de référence précise que l’audit a été exécuté selon un processus de clone, scan, vérification des README, licences, secrets, fichiers volumineux, fichiers `.env` et auteurs, avec vérification humaine des indices sensibles.
+The audit is documented according to principles R4 to R7: results are separated from hypotheses, values are tied to their scope, discrepancies are kept and claims must remain replayable. The reference report specifies that the audit was executed following a process of clone, scan, verification of READMEs, licenses, secrets, large files, `.env` files and authors, with human verification of sensitive clues.
 
-Le dépôt de méthode est disponible dans [`RATISS-Framework`](https://github.com/jonathansearch/RATISS-Framework). La plateforme expérimentale correspondante est [`RATISS-LABS-GTT`](https://github.com/jonathansearch/RATISS-LABS-GTT).
+The method repository is available in [`RATISS-Framework`](https://github.com/jonathansearch/RATISS-Framework). The corresponding experimental platform is [`RATISS-LABS-GTT`](https://github.com/jonathansearch/RATISS-LABS-GTT).
 
-## Liste des fichiers
+## File list
 
-| Fichier | Fonction |
+| File | Function |
 |---|---|
-| [`RAPPORT-GLOBAL.md`](RAPPORT-GLOBAL.md) | rapport global de l’audit du compte, avec scores, constats, limites et plan de correction |
-| [`AUDIT.md`](AUDIT.md) | registre professionnel des contrôles exécutés, des décisions prises et des actions restantes |
-| [`resultats.json`](resultats.json) | synthèse structurée des scores et catégories signalées dans le rapport |
-| [`rejouer.sh`](rejouer.sh) | aide à la reproduction locale de l’audit et à la vérification des dépôts de référence |
-| [`LICENSE`](LICENSE) | licence du présent registre documentaire |
+| [`RAPPORT-GLOBAL.md`](RAPPORT-GLOBAL.md) | global report of the account audit, with scores, findings, limits and correction plan |
+| [`AUDIT.md`](AUDIT.md) | professional registry of the executed controls, of the decisions taken and of the remaining actions |
+| [`resultats.json`](resultats.json) | structured summary of the scores and categories reported in the report |
+| [`rejouer.sh`](rejouer.sh) | helper for the local reproduction of the audit and for the verification of the reference repositories |
+| [`LICENSE`](LICENSE) | license of this documentary registry |
 
-Le présent registre est lui-même documenté comme un artefact audité par **RATISS-Framework**. Il ne remplace pas un audit indépendant : son statut est celui d’un auto-audit divulgué, conformément à la règle N2.
+This registry is itself documented as an artifact audited by **RATISS-Framework**. It does not replace an independent audit: its status is that of a disclosed self-audit, in accordance with rule N2.
 
-## Corrections non destructives
+## Non-destructive corrections
 
-Les descriptions publiques des dépôts conservés sont normalisées pour éviter le libellé répétitif « RATISS Labs professional repository ». Les descriptions indiquent désormais le rôle du dépôt ou, lorsqu’aucune spécialisation fiable n’est disponible dans le rapport, son appartenance au portefeuille de recherche et d’ingénierie de RATISS Labs.
+The public descriptions of the retained repositories are normalized to avoid the repetitive wording "RATISS Labs professional repository". The descriptions now state the role of the repository or, when no reliable specialization is available in the report, its membership in the research and engineering portfolio of RATISS Labs.
 
-Les corrections futures recommandées concernent la présence de licences reconnues par GitHub, les README manquants, les fichiers `.gitignore`, la documentation des copies vendoriées et l’harmonisation des branches. Ces corrections doivent être appliquées dépôt par dépôt afin de ne pas modifier involontairement du code ou des preuves scientifiques.
+The recommended future corrections concern the presence of licenses recognized by GitHub, the missing READMEs, the `.gitignore` files, the documentation of vendored copies and the harmonization of branches. These corrections must be applied repository by repository so as not to unintentionally alter code or scientific evidence.
 
-## Limites déclarées
+## Declared limits
 
-Le rapport source indique que les clones ont été effectués avec `--depth 1`. L’historique profond n’a donc pas été entièrement scanné. L’audit est un auto-audit exécuté avec les outils RATISS Labs ; la validation par un auditeur indépendant reste à obtenir.
+The source report states that the clones were performed with `--depth 1`. The deep history was therefore not fully scanned. The audit is a self-audit executed with the RATISS Labs tools; validation by an independent auditor remains to be obtained.
 
-## Contact et site officiel
+## Contact and official website
 
-Le site public de référence est [ratiss-labs-site](https://jonathansearch.github.io/ratiss-labs-site/). Le compte GitHub est [jonathansearch](https://github.com/jonathansearch). Le laboratoire RATISS Labs est présenté dans les dépôts de référence.
+The reference public website is [ratiss-labs-site](https://jonathansearch.github.io/ratiss-labs-site/). The GitHub account is [jonathansearch](https://github.com/jonathansearch). The RATISS Labs laboratory is presented in the reference repositories.
 
-## Références
+## References
 
-[1]: https://github.com/jonathansearch/RATISS-Framework "RATISS-Framework — protocole d’audit scientifique exécutable"
-[2]: https://github.com/jonathansearch/RATISS-LABS-GTT "RATISS-LABS-GTT — plateforme expérimentale principale"
-[3]: https://jonathansearch.github.io/ratiss-labs-site/ "Site officiel de RATISS Labs"
+[1]: https://github.com/jonathansearch/RATISS-Framework "RATISS-Framework — executable scientific audit protocol"
+[2]: https://github.com/jonathansearch/RATISS-LABS-GTT "RATISS-LABS-GTT — main experimental platform"
+[3]: https://jonathansearch.github.io/ratiss-labs-site/ "Official website of RATISS Labs"
